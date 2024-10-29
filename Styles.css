@@ -136,6 +136,7 @@ a[href="#nav"] {
 div.scroll-container {
     display: inline-flex;
     flex-direction: row;
+    flex-wrap: wrap;
     height: 100%;
     overflow-x: auto; /* Enable horizontal scrolling */
     overflow-y: hidden;
