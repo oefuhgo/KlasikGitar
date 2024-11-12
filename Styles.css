@@ -113,7 +113,8 @@ nav ul li a:hover {
 
 /* Main Content */
 main {
-    max-width: 1000px;
+    width: 75%;
+    max-width: 50%;
     height: auto;
     margin: 0 auto;
     background-color: rgba(250,235,215,0.6);
